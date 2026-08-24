@@ -2,7 +2,7 @@
 
 # Hi, I'm Robert Mawla Robbany
 
-### Computer Engineering Student | Mobile & IoT Developer
+### Web Developer | Mobile Developer | IoT Developer
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
 
@@ -12,59 +12,84 @@
 
 ## About Me
 
-- Computer Engineering Student
-- Mobile App Development
-- IoT & Embedded Systems
-- Web Development
-- UI/UX Design
-- Interested in building practical technology solutions
+I'm a Computer Engineering student interested in building
+web applications, mobile applications, and IoT systems.
+
+- 🌐 Web Development
+- 📱 Mobile Development
+- 🤖 IoT & Embedded Systems
+- 🔧 Hardware & Software Integration
+- 💡 Technology & Automation
 
 ---
 
 ## Tech Stack
 
+### Web
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,expo,flutter,dart,php,laravel,html,css,mysql,arduino,esp32,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel,nodejs,mysql" />
+
+</p>
+
+### Mobile
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,expo,flutter,dart,typescript" />
+
+</p>
+
+### IoT & Embedded
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp" />
+
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </p>
 
 ---
 
-## Areas of Interest
-
-### 📱 Mobile Development
-
-Building modern and user-friendly mobile applications
-using React Native, Expo, and Flutter.
+## What I Do
 
 ### 🌐 Web Development
 
-Developing responsive websites and web applications
-using JavaScript, PHP, Laravel, HTML, and CSS.
+Building responsive websites and web applications
+using modern web technologies, PHP, Laravel, and JavaScript.
+
+### 📱 Mobile Development
+
+Developing mobile applications using React Native,
+Expo, and Flutter with a focus on simple and practical
+user experiences.
 
 ### 🤖 IoT & Embedded Systems
 
-Working with ESP32, Arduino, sensors, and IoT technologies
-to build connected and automated systems.
-
-### 🎨 UI/UX
-
-Designing simple, intuitive, and accessible interfaces
-with a focus on usability and user experience.
+Building IoT systems using ESP32, Arduino, sensors,
+and connected devices to monitor and automate real-world systems.
 
 ---
 
 ## Currently Learning
 
 - React Native
-- Flutter
-- Dart
+- Expo
+- Flutter & Dart
+- TypeScript
 - PHP & Laravel
+- Node.js
 - IoT
 - ESP32
 - Embedded Systems
-- UI/UX Design
 
 ---
 
@@ -82,6 +107,6 @@ with a focus on usability and user experience.
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Web • Mobile • IoT
 
 </div>
