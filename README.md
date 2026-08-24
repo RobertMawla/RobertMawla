@@ -82,7 +82,6 @@ and connected devices to monitor and automate real-world systems.
 ## Currently Learning
 
 - React Native
-- Expo
 - Flutter & Dart
 - TypeScript
 - PHP & Laravel
@@ -90,12 +89,3 @@ and connected devices to monitor and automate real-world systems.
 - IoT
 - ESP32
 - Embedded Systems
-
-
----
-
-<div align="center">
-
-### Web • Mobile • IoT
-
-</div>
