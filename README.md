@@ -16,6 +16,7 @@
 - Mobile App Development
 - IoT & Embedded Systems
 - Web Development
+- UI/UX Design
 - Interested in building practical technology solutions
 
 ---
@@ -24,56 +25,58 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,expo,arduino,esp32,git,github,vscode,php,mysql" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,expo,flutter,dart,php,laravel,html,css,mysql,arduino,esp32,git,github,vscode" />
 
 </p>
 
 ---
 
-## Projects
+## Areas of Interest
 
-### 🌧️ RAINOVA — Smart Flood & Rain Monitoring System
+### 📱 Mobile Development
 
-An IoT-based monitoring system designed to monitor
-rainfall, water levels, temperature, and environmental
-conditions using ESP32 and sensors.
+Building modern and user-friendly mobile applications
+using React Native, Expo, and Flutter.
 
-**Technologies:**
-ESP32 · IoT · Sensors · Firebase · MQTT
+### 🌐 Web Development
 
----
+Developing responsive websites and web applications
+using JavaScript, PHP, Laravel, HTML, and CSS.
 
-### 🚧 Parking Gate — Smart Parking System
+### 🤖 IoT & Embedded Systems
 
-A smart parking gate system designed to automate
-vehicle entry and exit using electronic and embedded
-system technologies.
+Working with ESP32, Arduino, sensors, and IoT technologies
+to build connected and automated systems.
 
-**Technologies:**
-Arduino · Sensors · Embedded Systems · Automation
+### 🎨 UI/UX
 
----
-
-### 🖼️ Website Galeri
-
-A web-based gallery website for displaying and organizing
-images in a simple and accessible interface.
-
-**Technologies:**
-HTML · CSS · JavaScript · Web Development
+Designing simple, intuitive, and accessible interfaces
+with a focus on usability and user experience.
 
 ---
 
-## What I'm Learning
+## Currently Learning
 
 - React Native
-- Expo
-- TypeScript
+- Flutter
+- Dart
+- PHP & Laravel
 - IoT
 - ESP32
 - Embedded Systems
-- Web Development
 - UI/UX Design
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RobertMawla&show_icons=true&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertMawla&hide_border=true" />
+
+</div>
 
 ---
 
