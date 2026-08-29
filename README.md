@@ -4,7 +4,15 @@
 
 ### Web Developer | Mobile Developer | IoT Developer
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ4Z2J3ZHR2dGx3Z3lqN2xqNjV4eGd3bGZ6aWQ2MnN4M3A4Y3d6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="500">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Robert%20Mawla%20Robbany&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20Mobile%20Developer%20%7C%20IoT%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+Web+Applications;Developing+Mobile+Apps;Creating+IoT+Systems;Connecting+Hardware+and+Software" />
+</a>
+
+</div>
 
 </div>
 
