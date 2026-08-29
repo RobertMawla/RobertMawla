@@ -4,7 +4,7 @@
 
 ### Web Developer | Mobile Developer | IoT Developer
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350">
+<img src="https://raw.githubusercontent.com/RobertMawlaRobbany/RobertMawlaRobbany/output/github-contribution-grid-snake.svg">
 
 </div>
 
