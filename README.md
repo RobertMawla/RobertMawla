@@ -33,7 +33,7 @@ I'm a Computer Engineering student interested in building web applications, mobi
 ### Mobile
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,expo,flutter,dart,typescript" />
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,typescript" />
 </p>
 
 ### IoT & Embedded
