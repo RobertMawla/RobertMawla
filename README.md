@@ -95,24 +95,6 @@ Membangun sistem IoT dengan ESP32, Arduino, dan sensor untuk monitoring & automa
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=RobertMawla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RobertMawla&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=RobertMawla&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertMawla&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
