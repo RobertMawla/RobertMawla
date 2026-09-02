@@ -29,7 +29,7 @@ currently_building: "Connecting devices, apps, and the web into one ecosystem"
 fun_fact: "I debug hardware the same way I debug code — one wire (or line) at a time 🔌"
 ```
 
-<img align="right" width="380" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+
 
 - 🌐 **Web Development** — membangun aplikasi web modern & responsif
 - 📱 **Mobile Development** — React Native, Expo, Flutter
