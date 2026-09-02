@@ -1,24 +1,16 @@
 <div align="center">
 
 <a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=Hi+there%2C+I'm+Robert+%F0%9F%91%8B;Computer+Engineering+Student;Web+%7C+Mobile+%7C+IoT+Developer;Building+things+that+connect+the+real+world+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Hi+there%2C+I'm+Robert+%F0%9F%91%8B;Computer+Engineering+Student;Web+%7C+Mobile+%7C+IoT+Developer;Building+things+that+connect+the+real+world+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
 
-<br><br><br><br>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-
-&nbsp;&nbsp;
-
 <img src="https://img.shields.io/badge/Status-Available%20for%20Collab-brightgreen?style=flat-square"/>
-
-&nbsp;&nbsp;
-
 <img src="https://img.shields.io/badge/Focus-Web%20%7C%20Mobile%20%7C%20IoT-blue?style=flat-square"/>
 
 </div>
-
----
 
 ---
 
