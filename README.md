@@ -1,78 +1,41 @@
+<!-- ========================= -->
+<!--        ANIMATED HEADER     -->
+<!-- ========================= -->
+
 <div align="center">
 
-# Hi, I'm Robert Mawla Robbany
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Robert%20Mawla%20Robbany&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Mobile%20Developer%20%7C%20IoT%20Developer&descAlignY=58&descSize=18" />
 
-### Web Developer | Mobile Developer | IoT Developer
+<br>
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+Web+Applications+%F0%9F%8C%90;I+build+Mobile+Applications+%F0%9F%93%B1;I+build+IoT+Systems+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%E2%9A%A1" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300">
+
+<br><br>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0072FF&style=for-the-badge" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+<!-- ========================= -->
+<!--          ABOUT ME          -->
+<!-- ========================= -->
 
-I'm a Computer Engineering student interested in building web applications, mobile applications, and IoT systems.
+## 👨‍💻 About Me
 
-* 🌐 Web Development
-* 📱 Mobile Development
-* 🤖 IoT & Embedded Systems
-* 🔧 Hardware & Software Integration
-* 💡 Technology & Automation
+```text
+Hi! I'm Robert Mawla Robbany.
 
----
-
-## Tech Stack
-
-### Web
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php,laravel,nodejs,mysql" />
-</p>
-
-### Mobile
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,flutter,dart,typescript" />
-</p>
-
-### IoT & Embedded
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,cpp" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## What I Do
-
-### 🌐 Web Development
-
-Building responsive websites and web applications using modern web technologies, PHP, Laravel, and JavaScript.
-
-### 📱 Mobile Development
-
-Developing mobile applications using React Native, Expo, and Flutter with a focus on simple and practical user experiences.
-
-### 🤖 IoT & Embedded Systems
-
-Building IoT systems using ESP32, Arduino, sensors, and connected devices to monitor and automate real-world systems.
-
----
-
-## Currently Learning
-
-* React Native
-* Flutter & Dart
-* TypeScript
-* PHP & Laravel
-* Node.js
-* IoT
-* ESP32
-* Embedded Systems
+🎓 Computer Engineering Student
+💻 Web Developer
+📱 Mobile Developer
+🤖 IoT & Embedded Systems Developer
+🔧 Hardware & Software Integration
+⚡ Interested in Automation & Smart Technology
