@@ -1,13 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Hi+there%2C+I'm+Robert+%F0%9F%91%8B;Computer+Engineering+Student;Web+%7C+Mobile+%7C+IoT+Developer;Building+things+that+connect+the+real+world+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=Hi+there%2C+I'm+Robert+%F0%9F%91%8B;Computer+Engineering+Student;Web+%7C+Mobile+%7C+IoT+Developer;Building+things+that+connect+the+real+world+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
 
-<br/>
-<br/>
-
-<br/>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 <img src="https://img.shields.io/badge/Status-Available%20for%20Collab-brightgreen?style=flat-square"/>
@@ -32,15 +29,12 @@ currently_building: "Connecting devices, apps, and the web into one ecosystem"
 fun_fact: "I debug hardware the same way I debug code — one wire (or line) at a time 🔌"
 ```
 
-<img align="right" width="380" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
 - 🌐 **Web Development** — membangun aplikasi web modern & responsif
 - 📱 **Mobile Development** — React Native, Expo, Flutter
 - 🤖 **IoT & Embedded Systems** — ESP32, Arduino, sensor & automation
 - 🔧 **Hardware-Software Integration** — menjembatani dunia fisik & digital
 - 💡 **Selalu belajar teknologi baru**
 
-<br clear="right"/>
 
 ---
 
@@ -102,16 +96,16 @@ Membangun sistem IoT dengan ESP32, Arduino, dan sensor untuk monitoring & automa
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RobertMawla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMawla&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertMawla&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RobertMawla&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
