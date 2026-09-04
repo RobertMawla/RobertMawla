@@ -34,7 +34,7 @@ fun_fact: "I debug hardware the same way I debug code — one wire (or line) at 
 - 🌱 Currently sharpening my skills in **React Native, Flutter, and Laravel**
 - 🤝 Open to **collaboration** on web, mobile, and IoT-based projects
 - 💬 Ask me about **web development, mobile apps, or embedded systems**
-- 📫 Reach me at: *add your email here*
+- 📫 Reach me at: robertmawlarobbany@gmail.com
 - ⚡ Fun fact: **I debug hardware the same way I debug code — one wire (or line) at a time**
 
 ---
