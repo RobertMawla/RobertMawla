@@ -31,11 +31,11 @@ fun_fact: "I debug hardware the same way I debug code — one wire (or line) at 
 
 
 
-- 🌐 **Web Development** — membangun aplikasi web modern & responsif
+- 🌐 **Web Development** — building modern & responsive web applications
 - 📱 **Mobile Development** — React Native, Expo, Flutter
-- 🤖 **IoT & Embedded Systems** — ESP32, Arduino, sensor & automation
-- 🔧 **Hardware-Software Integration** — menjembatani dunia fisik & digital
-- 💡 **Selalu belajar teknologi baru**
+- 🤖 **IoT & Embedded Systems** — ESP32, Arduino, sensors & automation
+- 🔧 **Hardware-Software Integration** — bridging the physical & digital worlds
+- 💡 **Always learning new technologies**
 
 <br clear="right"/>
 
@@ -73,21 +73,21 @@ fun_fact: "I debug hardware the same way I debug code — one wire (or line) at 
 
 **🌐 Web Development**
 <br/>
-Membangun website & web app responsif menggunakan PHP, Laravel, JavaScript, dan Node.js.
+Building responsive websites & web apps using PHP, Laravel, JavaScript, and Node.js.
 
 </td>
 <td width="33%" align="center">
 
 **📱 Mobile Development**
 <br/>
-Mengembangkan aplikasi mobile dengan React Native, Expo, dan Flutter — fokus pada UX yang simpel & fungsional.
+Developing mobile applications with React Native, Expo, and Flutter — focused on simple & functional UX.
 
 </td>
 <td width="33%" align="center">
 
 **🤖 IoT & Embedded**
 <br/>
-Membangun sistem IoT dengan ESP32, Arduino, dan sensor untuk monitoring & automasi dunia nyata.
+Building IoT systems with ESP32, Arduino, and sensors for real-world monitoring & automation.
 
 </td>
 </tr>
